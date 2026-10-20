@@ -1,4 +1,4 @@
-import{n as e,r as t,t as n}from"./index-UonfQKgY.js";import{POLISH_MODEL as r,apiErrorMessage as i,t as a}from"./polishClient-Cf4BK4-c.js";var o=`You are a research assistant inside a physics researcher's private research diary.
+import{n as e,r as t,t as n}from"./index-CkulNDHX.js";import{POLISH_MODEL as r,apiErrorMessage as i,t as a}from"./polishClient-DeZR9Dlg.js";var o=`You are a research assistant inside a physics researcher's private research diary.
 They ask about passages from their notes and want answers they can trust and check.
 
 - Ground every factual claim in sources you found with your tools. For questions about
